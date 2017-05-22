@@ -123,10 +123,6 @@ PRODUCT_PACKAGES += \
     fingerprint.msm8916 \
     fingerprintd
 
-# FlipFlap
-PRODUCT_PACKAGES += \
-    FlipFlap
-
 # FM
 PRODUCT_PACKAGES += \
     FMRadio \
